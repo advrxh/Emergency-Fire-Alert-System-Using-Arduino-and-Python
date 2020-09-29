@@ -32,6 +32,6 @@ while True:
 		pywhatkit.sendwhatmsg(phone_number_fire_force,msg_to_fire_force,int(current_time[11:13]),int(current_time[14:16]) + 1)
 		break
 
-	else:
+	else: 
 		print('..')
 board.exit()
